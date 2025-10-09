@@ -6,4 +6,4 @@ By submitting a pull request, you agree that your contributions are licensed und
 
 This means:
 - Non-commercial use and modification are permitted.
-- Commercial or production use requires a commercial license from IntelliHome-App.
+- Commercial or production use requires a commercial license from IntelliHome Technologies ltd..
