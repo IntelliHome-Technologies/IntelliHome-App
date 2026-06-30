@@ -1,0 +1,16 @@
+CREATE TABLE Post (
+    id INTEGER NOT NULL,
+    name TEXT NOT NULL,
+    body TEXT NOT NULL
+);
+
+insert:
+INSERT INTO Post(id, name, body)
+VALUES (?, ?, ?);
+
+selectAll:
+SELECT * FROM Post;
+
+removeAll:
+DELETE FROM Post;
+
